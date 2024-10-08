@@ -10,6 +10,26 @@
         "message": "CCS Laboratory 1"
     },
     {
+       "latitude": 8.359639,
+       "Longitude": 124.858727,
+       "Message": "Balay ni Rey Anthony"
+    },
+    {
+        "latitude": 8.310116,
+        "Longitude": 124.858972,
+        "Message": "Balay nila alliah shane"
+     },
+     {
+        "latitude": 8.313183,
+        "Longitude": 124.862080,
+        "Message": "Balay nila Haide"
+     },
+     {
+        "latitude": 8.317840,
+        "Longitude": 124.860649,
+        "Message": "Balay nila Jibson"
+     },
+    {
         "latitude": 8.359554,
         "longitude": 124.869153,
         "message": "CCS Laboratory 2"
