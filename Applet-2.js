@@ -4,6 +4,7 @@ class LeafletMap {
         this.map = L.map(containerId).setView(center, zoom);
         this.initTileLayer();
     }
+
     initTileLayer() {
         L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
             maxZoom: 19,
@@ -27,6 +28,13 @@ class LeafletMap {
             .catch(error => console.error('Error loading markers:', error));
     }
 }
-const myMap = new LeafletMap('map', [8.360004, 124.868419], 14);
+
+const myMap = new LeafletMap('map', [8.360004, 124.868419], 18);
+
+/*
+myMap.addMarker(8.359735, 124.869206, 'CCS Faculty Office');
+myMap.addMarker(8.359639,124.869179, 'CCS Laboratory 1');
+myMap.addMarker(8.359554,124.869153, 'CCS Laboratory 2');
+*/
 
 myMap.loadMarkersFromJson('applet-2.json');
