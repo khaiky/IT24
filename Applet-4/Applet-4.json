@@ -1,0 +1,39 @@
+    [
+    {
+      "student_id": 20231231,
+      "student_name": "Gabitano,Samantha, L.",
+      "student_program": "BS-Information technology",
+      "student_enrolled_date": "2023-08-05"
+    },
+
+    {
+        "student_id": 20231293,
+        "student_name": "Salvo, Alliah Shane , R.",
+        "student_program": "BS-Information technology",
+        "student_enrolled_date": "2023-08-05"
+    },
+    {
+        "student_id": 20231294,
+        "student_name": "Liloan, Hiether Fhiona, L.",
+        "student_program": "BS-Information technology",
+        "student_enrolled_date": "2023-08-05"
+    },
+    {
+        "student_id": 20231268,
+        "student_name": "Pondulan, Maristhel, H.",
+        "student_program": "BS-Business Administration Major in Marketing Management",
+        "student_enrolled_date": "2023-08-05"
+    },
+    {
+        "student_id": 20231287,
+        "student_name": "Bernales, Rainiel Jevson, J.",
+        "student_program": "BS-Information technology",
+        "student_enrolled_date": "2023-08-05"
+    },
+    {
+        "student_id": 20231493,
+        "student_name": "Ranario, Peter Cruz.",
+        "student_program": "BS-Information technology",
+        "student_enrolled_date": "2023-08-05"
+    }
+]
