@@ -35,6 +35,15 @@ const myMap = new LeafletMap('map', [8.360004, 124.868419], 18);
 myMap.addMarker(8.359735, 124.869206, 'CCS Faculty Office');
 myMap.addMarker(8.359639,124.869179, 'CCS Laboratory 1');
 myMap.addMarker(8.359554,124.869153, 'CCS Laboratory 2');
+myMap.addMarker(8.359639,,124.858727, 'Balay ni Rey Anthony');
+myMap.addMarker( 8.310116, 124.858972, 'Balay nila alliah');
+myMap.addMarker(8.313183,124.862080, 'Balay nila hiter');
+myMap.addMarker(8.317840, 124.860649, 'Balay nila jibson');
+myMap.addMarker(8.360219,124.867465, 'Student Center Building');
+myMap.addMarker(8.360118,124.868904 , 'Covered  Court');
+myMap.addMarker(8.360123,124.869306, 'AVR');
+myMap.addMarker(8.359141,124.868581, 'BSBA Building');
+myMap.addMarker( 8.359269, 124.867835, 'Admin Building');
 */
 
 myMap.loadMarkersFromJson('applet-2.json');

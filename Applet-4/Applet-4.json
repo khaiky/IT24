@@ -35,5 +35,17 @@
         "student_name": "Ranario, Peter Cruz.",
         "student_program": "BS-Information technology",
         "student_enrolled_date": "2023-08-05"
+    },
+    {
+        "student_id": 20231490,
+        "student_name": "Vicariato, Joeroz, A.",
+        "student_program": "BS - Information Technology",
+        "student_enrolled_date": "2023-08-05"
+    },
+    {
+        "student_id": 20231811,
+        "student_name": "Ellevera, Oscar Jay, S.",
+        "student_program": "BS - Information Technology",
+        "student_enrolled_date": "2023-08-05"
     }
 ]
