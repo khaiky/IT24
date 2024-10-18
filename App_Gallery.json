@@ -1,0 +1,27 @@
+[
+    {
+    "Applet_No": "Applet 1 - Basic Events",
+    "Description": "This application contains the basic implementation of DOM events.",
+    "file": "Applet-1.html",
+    "Image": "https://w7.pngwing.com/pngs/807/541/png-transparent-technology-euclidean-electrical-network-circuit-chip-texture-background-free-blue-circuit-illustration-angle-free-logo-design-template-text-thumbnail.png"
+    },
+    {
+        "Applet_No": "Applet 2 - leaflet map",
+        "Description": "This application contains the basic web map.",
+        "file": "Applet-2.html",
+        "Image": "https://devnet.logianalytics.com/hc/article_attachments/7522792869527/introlmaps_01.png"
+    },
+    {
+        "Applet_No": "Applet 3 - Event Logger",
+        "Description": "This contains the logs with the date and total number of logs.",
+        "file": "Applet-3.html",
+        "Image": "https://sematext.com/wp-content/uploads/2023/07/Event-Log.png"
+    },
+    {
+        "Applet_No": "Applet 4 - Dynamic Elements",
+        "Description": "This contains for searching",
+        "file": "Applet-4/Applet-4.html",
+        "Image": "https://img.pikbest.com/wp/202405/dotted-line-dynamics-dynamic-form-of-dots-and-lines-abstract-technology-background-with-science-big-data-elements_9827348.jpg!w700wp"
+    }
+
+]
