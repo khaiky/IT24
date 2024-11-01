@@ -59,6 +59,18 @@ class TodoList {
     }
     resetEditing() {
         this.editingIndex = -1;
+    
         this.addButton.textContent = 'Add';
     }
-} 
+}
+    class TimestampedTodoList extends TodoList {
+        addTask(taskText) {
+            super.addTask(taskText);
+            const taskItem = this.todoList.lastChild;
+            const timestamp = document.createElement('span');
+            timestamp.className = 'timestamp';
+            timestamp.textContent = new Date().toLocaleString();
+            taskItem.appendChild(timestamp);
+        }
+    }
+    document.addEventListener('DOMContentLoaded', () => new TodoList());
