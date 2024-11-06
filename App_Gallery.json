@@ -15,13 +15,19 @@
         "Applet_No": "Applet 3 - Event Logger",
         "Description": "This contains the logs with the date and total number of logs.",
         "file": "Applet-3.html",
-        "Image": "https://sematext.com/wp-content/uploads/2023/07/Event-Log.png"
+        "Image": "https://static.euronews.com/articles/stories/07/45/42/70/1200x675_cmsv2_176cd404-5273-5ed7-9d46-3d59617bc2c5-7454270.jpg"
     },
     {
         "Applet_No": "Applet 4 - Dynamic Elements",
         "Description": "This contains for searching",
         "file": "Applet-4/Applet-4.html",
         "Image": "https://img.pikbest.com/wp/202405/dotted-line-dynamics-dynamic-form-of-dots-and-lines-abstract-technology-background-with-science-big-data-elements_9827348.jpg!w700wp"
+    },
+    {
+    "Applet_No":"Applet 5 - Open Weather",
+        "Description":"This application is for the basic usage of open weather",
+        "file":"Applet-5.html",
+        "Image":"https://static2.bigstockphoto.com/3/9/3/large1500/393540731.jpg"
     }
 
 ]
