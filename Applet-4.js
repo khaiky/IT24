@@ -51,4 +51,4 @@ filterStudents(query, searchListContainer) {
 
 }
 
-const studentList = new StudentList('applet-4.json');
+const studentList = new StudentList('Applet-4.json');
